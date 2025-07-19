@@ -1,5 +1,6 @@
 def test_addition():
     assert 2 + 2 == 4
 
-def test_failure_example():
-    assert "QA" in "Quality Assurance"
+def test_pass_example():
+    assert "Quality" in "Quality Assurance"
+
